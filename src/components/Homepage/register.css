@@ -1,0 +1,97 @@
+.container-fluid.register {
+    background-image: url("/public/backgroundimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-regristrasi {
+    width: 700px;
+    height: fit-content;
+    border: 1px solid rgb(203, 203, 203);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #F6F3F3;
+    margin-top: 20%;
+}
+
+.form-control-register-username {
+    width: 350px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control-register-email {
+    width: 350px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control-register-password {
+    width: 350px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-label-register-username {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 100px;
+    display: block;
+    text-align: center;
+}
+
+.form-label-register-email {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+}
+
+.form-label-register-password {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+}
+
+.h1-register {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.navigation-link-to-login {
+    font-size: 16px;
+    font-weight: 550;
+    text-decoration: none;
+    color: black;
+}
+
+.btn-register {
+    width: 250px;
+    height: 60px;
+    border: 1px solid #5d6976;
+    box-shadow: 0px 4px 4px rgba(118, 118, 118, 0.25);
+    background-color: #798897;  
+    color: white;
+    font-size: 16px;
+    font-weight: 550;
+    margin-bottom: 20px;
+}
+
+.btn-register:hover {
+     background-color: #d84345;
+    color: white;
+    transition: 0.4s;
+}
+
+.col-navigation-register {
+    margin-top: 50px;
+}
+

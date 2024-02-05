@@ -1,0 +1,112 @@
+.btn-success {
+    background-color: #438400;
+}
+
+.btn-primary {
+    background-color: #007CF6;
+}
+
+.btn-danger {
+    background-color: #D0423E;
+}
+
+.form-control {
+    border: 1px solid #000000;
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+.form-label {
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+.container-fluid {
+    font-family: 'Poppins';
+}
+
+body {
+    background-color: #FFF6F3;
+    overflow-x: hidden;
+}
+
+.container-fluid {
+    background-color: #FFF6F3;
+}
+
+.carousel-caption {
+    margin-bottom: 400px;
+}
+
+.overlay.background.img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    pointer-events: none;
+}
+
+.header.caption {
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.lead {
+    font-size: 16px;
+    text-align: justify;
+    overflow-wrap: break-word;
+}
+
+.card.category.home {
+    width: 380px;
+    height: fit-content;
+    border: 1px solid rgb(243, 243, 243);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #F6F3F3;
+    text-decoration: none;
+}
+
+.img-kategori-home {
+    width: 380px;
+    height: 300px;
+}
+
+.card.category.home:hover {
+    transform: scale(1.05);
+}
+
+h5.home {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.icon-home {
+    font-size: 64px;
+}
+
+.section-home-2-header {
+    font-weight: 700;
+}
+
+.col.section-home-2 {
+    margin-left: 40px;
+}
+
+.col.section-home-2-2-1 {
+    margin-left: 15px;
+}
+
+.col.col.section-home-2-2-2 {
+    margin-left: 8px;
+}
+
+.check-list-pelanggan {
+    font-size: 32px;
+    margin-top: 10px;
+}
+
+::-webkit-scrollbar {display:none;}

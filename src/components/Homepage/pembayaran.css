@@ -1,0 +1,26 @@
+.card-container-fluid-pembayaran {
+    height: fit-content;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    width: 940px;
+}
+
+.btn-bayar-pembayaran {
+    width: 207px;
+    height: fit-content;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #9b4444;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    justify-content: center;
+    background-color: #d84345;
+    color: white;
+}
+
+.btn-bayar-pembayaran:hover {
+    transform: scale(1.05);
+    transition: 0.4s;
+}

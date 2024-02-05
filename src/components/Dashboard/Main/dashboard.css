@@ -1,0 +1,17 @@
+.dashboard .card {
+    width: 400px;
+    height: 200px;
+    border: 1px solid rgb(203, 203, 203);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #F6F3F3;
+    padding: 10px;
+}
+
+.dashboard .card h6 {
+    font-size: 20px;
+}
+
+.dashboard .card b {
+    margin-top: 35px;
+    font-size: 30px;
+}

@@ -1,0 +1,34 @@
+.footer {
+    background-color: #e5e4e4;
+    height: fit-content;
+    margin-top: auto;
+    padding: 15px;
+}
+
+p.info-footer {
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+
+p.info-footer-alamat {
+    font-family: 'Poppins';
+    font-size: 12px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.icon-footer {
+    font-size: 28px;
+    margin-left: 35px;
+    color: black;
+}
+
+.nav-link-footer {
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.header-footer{
+    font-weight: 600;
+}

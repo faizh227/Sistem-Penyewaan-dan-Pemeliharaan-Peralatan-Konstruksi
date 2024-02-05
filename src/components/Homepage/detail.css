@@ -1,0 +1,77 @@
+.card-component-detail {
+    width: 420px;
+    height: fit-content;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    margin-right: 30px;
+}
+
+.card-info-alat-component-detail {
+    width: 420px;
+    height: 315px;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    margin-right: 30px;
+}
+
+.card-image-component-detail {
+    width: 420px;
+    height: fit-content;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    margin-left: 30px;
+}
+
+.card-info-sewa-component-detail {
+    width: 420px;
+    height: fit-content;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    margin-left: 30px;
+}
+
+.p-info-barang-detail {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.h6-info-penyewaan-main-page-detail {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.h6-info-peralatan-main-page-detail {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-container-fluid-detail {
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid rgb(235, 235, 235);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #F6F3F3;
+}
+
+.btn-detail {
+    width: 150px;
+    height: fit-content;
+    border-radius: 30px;
+}
+
+.link-info-prosedur-penyewaan{
+    color: black;
+}
+
+.fa-circle-prosedur {
+    font-size: 25px;
+}

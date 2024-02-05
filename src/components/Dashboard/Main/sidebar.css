@@ -1,0 +1,17 @@
+.sidebar {
+    width: 250px;
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: 1000;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.sidebar a {
+    margin-left: 10px;
+}
+
+.sidebar a:hover {
+    transform: scale(1.15);
+}

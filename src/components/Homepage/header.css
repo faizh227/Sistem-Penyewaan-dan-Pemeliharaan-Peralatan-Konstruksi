@@ -1,0 +1,68 @@
+.navbar-header-main-webpage {
+    background-color: #d84345;
+    height: 100px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-link {
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF6F3;
+    font-family: 'Poppins';
+    text-transform: uppercase;
+    font-weight: 550;
+}
+
+.nav-link:hover{
+    transform: scale(1.25);
+    color: #FFF6F3;
+}
+
+.dropdown-toggle.kategori {
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF6F3;
+    font-family: 'Poppins';
+    text-transform: uppercase;
+    font-weight: 550;
+    margin-top: 1.15px;
+}
+
+.dropdown-toggle.kategori:hover {
+    font-size: 16px;
+    text-decoration: none;
+    color: #FFF6F3;
+    font-family: 'Poppins';
+    text-transform: uppercase;
+    font-weight: 550;
+    transform: scale(1.25);
+}
+
+.image-logo-header-main-webpage{
+    width: 100px;
+    height: 65px;
+}
+
+.btn.show.kategori{
+    color: #FFF6F3;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.dropdown-menu.kategori {
+    background-color: #F6F3F3;
+}
+
+.dropdown-item.kategori {
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins';
+    text-transform: uppercase;
+    font-weight: 550;   
+}
+
+.dropdown-item.kategori:hover{
+    background-color: rgba(0,0,0,0.1);
+}
+

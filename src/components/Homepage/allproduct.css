@@ -1,0 +1,99 @@
+.container-fluid.content {
+    margin-top: 120px;
+}
+
+.card.p-3.allproduct.available {
+    width: 380px;
+    height: fit-content;
+    border: 1px solid rgb(235, 235, 235);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #F6F3F3;
+}
+
+.img-allproduct {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-image-allproduct{
+    width: 380px;
+    height: 200px;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: white;
+}
+
+.card-product-allproduct {
+    padding-top: 15px;
+    width: 380px;
+    height: 51px;
+    border: 1px solid rgb(235, 235, 235);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    justify-content: center;
+    font-family: 'Poppins';
+    font-style: normal; 
+    font-size: 16px;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.card-detail-allproduct {
+    width: 350px;
+    height: 51px;
+    border: 1px solid #9b4444;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    justify-content: center;
+    background-color: #d84345;
+    color: white;
+}
+
+.card-detail-allproduct.available:hover{
+    transform: scale(1.05);
+    transition: 0.4s;
+}
+
+.navigation-link-allproduct{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.card.p-3.allproduct.unavailable {
+    width: 380px;
+    height: fit-content;
+    border: 1px solid rgb(203, 203, 203);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #F6F3F3;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(128, 128, 128, 0.8);
+    pointer-events: none;
+}
+
+.card.overlay.text {
+    text-transform: uppercase;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;    
+    padding: 10px;
+    border: 1px solid rgb(203, 203, 203);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #F6F3F3;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 130px;
+    margin-top: 195px;
+}

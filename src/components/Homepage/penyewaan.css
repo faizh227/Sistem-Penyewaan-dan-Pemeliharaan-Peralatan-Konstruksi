@@ -1,0 +1,77 @@
+.h5-formulir-penyewaan {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+.h6-formulir-penyewaan {
+    font-family: 'Poppins';
+    font-weight: bold;
+}
+
+.card-formulir-penyewaan {
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid rgb(203, 203, 203);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #F6F3F3;
+}
+
+.card-formulir-detail-penyewaan {
+    font-family: 'Poppins';
+    width: 865px;
+    border: 1px solid rgb(205, 205, 205);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-sewa-penyewaan {
+    width: 370px;
+    height: 50px;
+    font-family: 'Poppins';
+    border: 1px solid #9b4444;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    background-color: #d84345;
+    color: white;
+    font-weight: 700;
+}
+
+.btn-sewa-penyewaan:hover {
+    background-color: #d84345;
+    color: white;
+    transform: scale(1.05);
+    transition: 0.4s;
+}
+
+.image-product-penyewaan {
+    height: 420px;
+    width: 420px;
+    object-fit: fill;
+}
+
+.card-image-penyewaan {
+    height: 420px;
+    width: 420px;
+    border: 1px solid rgb(205, 205, 205);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.card-info-product-penyewaan {
+    height: 420px;
+    width: 420px;
+    border: 1px solid rgb(205, 205, 205);
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.p-info-product-penyewaan {
+    font-family: 'Poppins';
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+.h6-info-product-penyewaan {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    text-align: center;
+}
